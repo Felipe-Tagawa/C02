@@ -1,0 +1,46 @@
+10 12
+0
+1
+Pallet
+251
+0
+Lumiose
+72
+1
+Tapu village
+302
+1
+Lavender Town
+134
+0
+Verdanturf Town
+192
+0
+Vaniville Town
+16
+0
+Aether Paradise
+293
+0
+Opalucid City
+150
+1
+Suntouched City
+280
+1
+Celestic Town
+205
+1
+
+0 4 200
+0 3 20
+0 8 300
+0 9 400
+1 5 40
+2 6 30
+4 2 150
+4 7 220
+4 8 250
+7 1 175
+8 1 600
+8 9 320
